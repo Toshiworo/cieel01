@@ -3,3 +3,4 @@ amino
 requests
 dick.py
 amino.fix
+aiohttp
