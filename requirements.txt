@@ -1,5 +1,4 @@
 BotAmino
 amino
 requests
-amino.fix
-amino.py
+dick.py
