@@ -1,7 +1,7 @@
 BotAmino
 amino
 requests
-dick.py
+Dick.py==1.2.4
 amino.fix
 aiohttp
 websockets
