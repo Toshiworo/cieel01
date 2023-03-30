@@ -4,3 +4,4 @@ requests
 dick.py
 amino.fix
 aiohttp
+websockets
