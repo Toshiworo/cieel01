@@ -1,5 +1,5 @@
 BotAmino
-Dick.py==1.7
+Amino.py==3.0.10
 requests
 amino.fix
 aiohttp
