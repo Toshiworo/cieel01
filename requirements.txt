@@ -1,6 +1,6 @@
 BotAmino
 Dick.py==1.7
 requests
-amino.fix==2.3.5.4 
+amino.fix
 aiohttp
 websockets
