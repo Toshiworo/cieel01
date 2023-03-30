@@ -2,3 +2,4 @@ BotAmino
 amino
 requests
 amino.fix
+amino.py
