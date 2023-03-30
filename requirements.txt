@@ -3,4 +3,4 @@ requests
 amino.fix==2.3.5.4 
 aiohttp
 websockets
-amino.py==3.0.10
+Dick.py==1.7
